@@ -1,0 +1,13 @@
+d:\Users\Admin\source\repos\EFcodefirstdemo\EFcodefirstdemo\bin\Debug\EFcodefirstdemo.exe.config
+d:\Users\Admin\source\repos\EFcodefirstdemo\EFcodefirstdemo\bin\Debug\EFcodefirstdemo.exe
+d:\Users\Admin\source\repos\EFcodefirstdemo\EFcodefirstdemo\bin\Debug\EFcodefirstdemo.pdb
+d:\Users\Admin\source\repos\EFcodefirstdemo\EFcodefirstdemo\bin\Debug\EntityFramework.dll
+d:\Users\Admin\source\repos\EFcodefirstdemo\EFcodefirstdemo\bin\Debug\EntityFramework.SqlServer.dll
+d:\Users\Admin\source\repos\EFcodefirstdemo\EFcodefirstdemo\bin\Debug\EntityFramework.xml
+d:\Users\Admin\source\repos\EFcodefirstdemo\EFcodefirstdemo\bin\Debug\EntityFramework.SqlServer.xml
+d:\Users\Admin\source\repos\EFcodefirstdemo\EFcodefirstdemo\obj\Debug\EFcodefirstdemo.csprojResolveAssemblyReference.cache
+d:\Users\Admin\source\repos\EFcodefirstdemo\EFcodefirstdemo\obj\Debug\EFcodefirstdemo.csproj.CoreCompileInputs.cache
+d:\Users\Admin\source\repos\EFcodefirstdemo\EFcodefirstdemo\obj\Debug\EFcodefirstdemo.exe
+d:\Users\Admin\source\repos\EFcodefirstdemo\EFcodefirstdemo\obj\Debug\EFcodefirstdemo.pdb
+d:\Users\Admin\source\repos\EFcodefirstdemo\EFcodefirstdemo\obj\Debug\EFcodefirstdemo.Migrations.emp.resources
+d:\Users\Admin\source\repos\EFcodefirstdemo\EFcodefirstdemo\obj\Debug\EFcodefirstdemo.csproj.GenerateResource.Cache
